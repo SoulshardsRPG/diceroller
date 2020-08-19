@@ -1,0 +1,11 @@
+{
+  "name": "Soulshards RPG Dice Roller",
+  "version": "1.0.0",
+  "description": "Roll d12 using Soulshards RPG rules.",
+  "main": "bot.js",
+  "author": "Yitzi Santer",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
