@@ -71,4 +71,3 @@ client.on('message', message => {
 })
 
 client.login(process.env.hmWWEzyhaIspeTp4FRn1r1TeyaJja2J1);
-//client.login('NzQ1NDQ5NDI1MjcwNDcyNzY1.Xzx74A.VGgc8JzEuyYSVbrEDc7g7C73ifA')
